@@ -1,2 +1,6 @@
 # Projeto1-POO
-Um projeto executado por mim e outro colega, onde trabalhamos as habilidades de POO na linguagem Java, o qual criamos uma simulador de corrida com diversos tipos de veículos e atibutos.
+*Projeto 1 da disciplina Programação Orientada a Objetos (POO) 
+*Simulador de corrida em Java
+*Professora: Luciene Marin
+*Aluno: Arthur Afonso Rodrigues da Silva
+*Geferson Artuzo
